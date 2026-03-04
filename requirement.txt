@@ -1,7 +1,7 @@
 streamlit
-python-dotenv
 openai
+python-dotenv
 pillow
 numpy
-opencv-python
 scipy
+opencv-python-headless
